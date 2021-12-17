@@ -1,0 +1,5 @@
+1) Linux
+2) VPS
+3) API
+4) Postqresql
+5) GIT
